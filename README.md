@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**fferhatakr/fferhatakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ferhat Akar
+Computer Engineering student at Ondokuz Mayıs University (OMÜ)
 
-Here are some ideas to get you started:
+I am currently focusing on building a solid foundation in software engineering. I enjoy learning how to build mobile applications and exploring the basics of artificial intelligence. My goal is to improve my practical skills through projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech & Tools
+
+Languages: Kotlin, Java, Python (Learning)
+Mobile: Android Development basics
+Interests: AI & Machine Learning, Algorithmic Thinking
+
+Currently Working On
+
+Improving my knowledge of Android Architecture and Kotlin.
+Learning how to implement Machine Learning concepts in real-world scenarios.
+Building small projects to apply my engineering mindset.
+Looking for internship opportunities to learn from professional environments.
