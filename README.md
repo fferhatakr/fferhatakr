@@ -1,19 +1,25 @@
 ## Hi there 👋
 
-Ferhat Akar
-Computer Engineering student at Ondokuz Mayıs University (OMÜ)
+### Ferhat Akar
 
-I am currently focusing on building a solid foundation in software engineering. I enjoy learning how to build mobile applications and exploring the basics of artificial intelligence. My goal is to improve my practical skills through projects and continuous learning.
+**Computer Engineering student at Ondokuz Mayıs University (OMÜ)**
 
-Tech & Tools
+I’m a software engineering student passionate about building practical solutions. Currently, I’m focused on bridging the gap between **Mobile Development** and **Artificial Intelligence** to create intelligent mobile experiences.
 
-Languages: Kotlin, Java, Python (Learning)
-Mobile: Android Development basics
-Interests: AI & Machine Learning, Algorithmic Thinking
+I value clean, understandable code and believe in the power of "learning by doing." Whether it's a complex algorithm or a simple UI component, I strive for efficiency and a practical engineering mindset.
 
-Currently Working On
+---
 
-Improving my knowledge of Android Architecture and Kotlin.
-Learning how to implement Machine Learning concepts in real-world scenarios.
-Building small projects to apply my engineering mindset.
-Looking for internship opportunities to learn from professional environments.
+**Tools & Tech**
+
+* **Mobile:** Kotlin, Java (Android Development)
+* **AI & Data Science:** Python, OpenCV, Machine Learning basics
+* **Foundations:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+
+---
+
+**Current Focus**
+
+* **Android:** Deepening my knowledge of Kotlin and modern Android architecture.
+* **AI Integration:** Working on computer vision projects (like my current Face Recognition "Roll-Call" system).
+* **Experience:** Seeking internships and student projects to apply my skills in professional environments.
